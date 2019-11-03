@@ -7,7 +7,7 @@
 
 ## Firebase Backend Database
 
-- To store the users information once the submit button is clicked
+- To store the users information once the submit button is clicked.
 
 ## Features:
 
