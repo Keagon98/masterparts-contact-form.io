@@ -32,7 +32,8 @@ body {
 @media screen and (max-width: 400px) {
     .navbar-brand #master_img {
 
-        height: 25px;
+        height: auto;
+        width: 100%;
         max-width: 300px;
     }
 }
