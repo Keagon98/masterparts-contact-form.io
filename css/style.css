@@ -36,6 +36,12 @@ body {
         width: 100%;
         max-width: 300px;
     }
+
+
+    i #social-icons {
+        font-size: 10px;
+        display: inline-block;
+    }
 }
 
 @media screen and (max-width: 1200px) {
